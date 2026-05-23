@@ -1,0 +1,3 @@
+1805123456|Ana Torres Ruiz|Software|8.75
+0503987654|Luis Perez Mora|Industrial|6
+1234567890|Maria Saltos V.|Sistemas|9.5
