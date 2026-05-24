@@ -1,0 +1,4 @@
+Nombre: Juan Perez
+Promedio: 8
+Estado: APROBADO
+------------------------
