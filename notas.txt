@@ -1,0 +1,4 @@
+Nombre: Mario Lopez
+Promedio: 5.0
+Estado: REPROBADO
+------------------------
